@@ -60,5 +60,9 @@ else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
 
 ~~~
+
+### OUTPUT:
+![Screenshot 2022-11-01 111505](https://user-images.githubusercontent.com/95266350/199167188-ef676551-a0bb-4361-adca-c7ecd01ac92a.png)
+
  ### Results:
 poisson distribution for the arrival of objects per minute from the feeder is fitted successfully.
